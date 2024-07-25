@@ -8,5 +8,5 @@ Store the Gan model in the Wav2lip, you can get it from this  [Link](https://iii
 
 Now you are ready to access and produce the videos.
 
-Access from this [Link]https://colab.research.google.com/drive/1UbasjqtuYGs7iLSDWekHZsTa8NK5HjUn?usp=sharing
+Access from this [Colab](https://colab.research.google.com/drive/1UbasjqtuYGs7iLSDWekHZsTa8NK5HjUn?usp=sharing)
 
