@@ -4,7 +4,7 @@ To Initialize the colab you need to ucreate two files in google drive, one named
 
 Store your videos and audio inputs in Wav2Lip
 
-Store the Gan model in the Wav2lip
+Store the Gan model in the Wav2lip, you can get it from this link "[Link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW)"
 
 Now you are ready to access and produce the videos.
 
