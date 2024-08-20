@@ -35,7 +35,7 @@ http://127.0.0.1:5000/upload/Vid_name/Audio_name
 Example:
 http://127.0.0.1:5000/upload/input_vid.mpg/input_audio.mp3
 
-Once video is producedit will be saved in result folder
+Once video is produced it will be saved in result folder
 
 then run 
 
