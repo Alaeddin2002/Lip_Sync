@@ -14,6 +14,8 @@ Access from this [Colab](https://colab.research.google.com/drive/1UbasjqtuYGs7iL
 
 Download the Lip_Sync Folder Locally
 
+Can get it from [this google folder](https://drive.google.com/drive/folders/1jVBx0DEpNj_0JvARWLKG5-76o6XILUeL?usp=sharing)
+
 Activate the virtual environment in the Lip_Sync file as the requirment.txt folder is not compatible with teh new versions of python
 
 ```source env/bin/activate```
@@ -41,7 +43,7 @@ then run
 
 http://127.0.0.1:5000/frames
 
-which takes the video (saved in results) and runs the previous functions to capture all the frames in them, enhances them, and save them alos in the results folder
+which takes the video (saved in results) and runs the previous functions to capture all the frames in them, enhances them, and save them also in the results folder
 
 
 Finally 
