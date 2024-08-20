@@ -12,7 +12,7 @@ Access from this [Colab](https://colab.research.google.com/drive/1UbasjqtuYGs7iL
 
 # Running Locally the API
 
-Download the Lip_Sync File Locally
+Download the Lip_Sync Folder Locally
 
 Activate the virtual environment in the Lip_Sync file as the requirment.txt folder is not compatible with teh new versions of python
 
@@ -28,9 +28,27 @@ Then
 
 ```python lip_sync.py```
 
-Make sure the video and auio files you want to run are saved in the assets file
+Make sure the video and audio files you want to run are saved in the assets file
 Flask will run, in which its format is 
 http://127.0.0.1:5000/upload/Vid_name/Audio_name
 
 Example:
 http://127.0.0.1:5000/upload/input_vid.mpg/input_audio.mp3
+
+Once video is producedit will be saved in result folder
+
+then run 
+
+http://127.0.0.1:5000/frames
+
+which takes the video (saved in results) and runs the previous functions to capture all the frames in them, enhances them, and save them alos in the results folder
+
+
+Finally 
+
+http://127.0.0.1:5000/enhanced_vid/<audio>
+
+command is run to save all frames into a video and syncing the audio into them, saved in the Wav2Lip folder as an output file
+
+
+
